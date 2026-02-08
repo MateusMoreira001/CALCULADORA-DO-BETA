@@ -24,7 +24,7 @@ Apesar da temática de humor (baseada em memes da cultura da internet), a estrut
 
 ## 🕹️ Como usar
 
-1.  Acesse o link do deploy: **[INSIRA_SEU_LINK_DA_VERCEL_AQUI]**
+1.  Acesse o link do deploy: **[]**
 2.  Responda as perguntas com sinceridade (se tiver coragem).
 3.  Receba seu diagnóstico final.
 
