@@ -2,7 +2,6 @@
 
 > "O que sobra para o beta?" - Descubra se você é um Sigma ou se não sobrou nada para você.
 
-![Badge de Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Badge de Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
 
 ## 📋 Sobre o Projeto
